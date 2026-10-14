@@ -1,26 +1,28 @@
-# V5 Medical 内容知识库
+# V5 Medical Knowledge Base
 
 <!-- KNOWLEDGE-BASE:START -->
 ## Knowledge Base
 
-### 注射与输注器械 / B2B 采购
+### Injection & Infusion Devices / B2B Sourcing
 
-- [胰岛素针头规格全解析：Gauge 与长度选型指南](/posts/insulin-needle-spec-guide) — 2026-10-14
+- [Insulin Needle Specifications Explained: A Complete Gauge & Length Selection Guide](/posts/insulin-needle-spec-guide) — 2026-10-14
 
 ---
 
-## 关于本站
+## About
 
-v5b.cc.cd 是 V5 Medical 的行业内容站，由增长官（GO-Mia）负责，聚焦医疗器械行业知识、产品选购指南与 B2B 采购实务，服务经销商、医院采购与海外买家。
+v5b.cc.cd is V5 Medical's industry content hub, managed by the Growth Office (GO-Mia). It publishes medical device knowledge, product buying guides and B2B procurement practices for distributors, hospital buyers and global wholesalers.
 
-## 目录结构
+## Structure
 
-- `posts/` — 文章 Markdown 源文件（文件名即 URL slug）
-- `assets/` — 图片与静态资源
+- `posts/` — Article Markdown sources (filename = URL slug)
+- `assets/` — Images and static assets
+- `index.html` — Homepage (static)
+- `posts/*.html` — Article pages (static, SEO-ready)
 
-## 供稿规范
+## Contributing
 
-每篇文章头部需包含：
+Each article must include frontmatter:
 
 ```yaml
 ---
@@ -28,7 +30,7 @@ date: "YYYY-MM-DD"
 ---
 ```
 
-正文开头标注：作者 / 分类 / 阅读时长 / 目标读者。
+And a header block: Author / Category / Reading time / Target audience.
 
 ---
 *V5 Medical · Growth Office*
