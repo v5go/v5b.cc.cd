@@ -3,6 +3,10 @@
 <!-- KNOWLEDGE-BASE:START -->
 ## Knowledge Base
 
+### Syringes / B2B Sourcing
+
+- [Disposable Syringe Specifications: A Complete B2B Buying Guide](/posts/disposable-syringe-buying-guide) — 2026-10-14
+
 ### Injection & Infusion Devices / B2B Sourcing
 
 - [Insulin Needle Specifications Explained: A Complete Gauge & Length Selection Guide](/posts/insulin-needle-spec-guide) — 2026-10-14
