@@ -7,6 +7,10 @@
 
 - [Disposable Syringe Specifications: A Complete B2B Buying Guide](/posts/disposable-syringe-buying-guide) — 2026-10-14
 
+### Needles / B2B Sourcing
+
+- [Hypodermic Needle Gauge Chart: 14G–34G Complete Reference](/posts/hypodermic-needle-gauge-chart) — 2026-10-14
+
 ### Injection & Infusion Devices / B2B Sourcing
 
 - [Insulin Needle Specifications Explained: A Complete Gauge & Length Selection Guide](/posts/insulin-needle-spec-guide) — 2026-10-14
